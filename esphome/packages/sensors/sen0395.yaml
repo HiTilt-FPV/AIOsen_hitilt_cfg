@@ -6,7 +6,7 @@ uart:
 
 esphome:
   includes:
-    - packages/sen0395_distance.h
+    - ../sen0395_distance.h
 
 custom_component:
   - lambda: |-
