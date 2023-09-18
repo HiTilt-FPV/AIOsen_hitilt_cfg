@@ -1,7 +1,7 @@
 # https://esphome.io/components/sensor/bme680.html
 
 substitutions:
-  bmex80_address: "0x76"
+  bmex80_address: "0x77"
   bmex80_update_interval: "30s"
   humidity_offset: "0"
   pressure_offset: "0"
